@@ -1,0 +1,16 @@
+EARTHQUAKE PREDICTION PROJECT - SETUP INSTRUCTIONS
+==============================================
+
+This project requires several Python packages to run all features.
+Install them with the following command:
+
+pip install -r requirements.txt
+
+If you encounter any issues, you can install packages individually:
+
+pip install pandas numpy requests tqdm
+pip install geopandas shapely pyproj  # For geospatial analysis
+pip install skyfield  # For lunar position calculations
+pip install matplotlib seaborn plotly  # For visualization
+
+The script will work with limited functionality even without all packages.

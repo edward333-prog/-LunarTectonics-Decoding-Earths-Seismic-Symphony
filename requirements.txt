@@ -1,0 +1,21 @@
+# Core data processing
+pandas>=1.3.0
+numpy>=1.20.0
+requests>=2.25.0
+tqdm>=4.60.0
+
+# Geospatial analysis for tectonic plates and earthquake locations
+geopandas>=0.10.0
+shapely>=1.7.0
+pyproj>=3.0.0
+
+# Astronomical calculations for lunar cycle analysis
+skyfield>=1.39.0
+
+# Data visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+plotly>=5.3.0
+
+# Machine learning tools for predictive modeling
+scikit-learn>=1.0.0
