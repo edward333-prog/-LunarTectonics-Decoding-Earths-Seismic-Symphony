@@ -2,7 +2,7 @@
 Data Analytics and Data Science 
 
 
-> "What if the most powerful force in earthquake prediction isn't buried deep within Earth's crust, but has been hanging in our night sky all along? For centuries, we've gazed at the Moon while standing on shifting ground—never realizing these two phenomena might be speaking the same cosmic language."
+> "What if the most powerful force in earthquake prediction isn't just buried deep within Earth's crust, but has also been hanging in our night sky all along? For centuries, we've gazed at the Moon while standing on shifting ground—never realizing these two phenomena might be speaking the same cosmic language."
 
 ## Project Objective
 This data analytics portfolio project aims to develop machine learning models to predict future earthquakes by analyzing a 20-year historical seismic dataset (2005-2025). The analysis explores relationships between earthquakes, tectonic plate boundaries, and lunar cycles. By demonstrating advanced data analysis techniques on real-world geophysical data, this project showcases skills in time series analysis, spatial data processing, and predictive modeling.
