@@ -1,7 +1,6 @@
-# -LunarTectonics-Decoding-Earths-Seismic-Symphony
+# LunarTectonics: Decoding Earth's Seismic Symphony
 Data Analytics and Data Science 
 
-# LunarTectonics: Decoding Earth's Seismic Symphony
 
 > "What if the most powerful force in earthquake prediction isn't buried deep within Earth's crust, but has been hanging in our night sky all along? For centuries, we've gazed at the Moon while standing on shifting ground—never realizing these two phenomena might be speaking the same cosmic language."
 
